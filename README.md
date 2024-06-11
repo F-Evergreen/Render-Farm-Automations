@@ -1,11 +1,3 @@
-## Welcome to My GitHub Portfolio
-
-## About Me
-
-Hello! I'm Ryan, a Software Developer with a passion for automation and system efficiency. I enjoy continuously learning new skills and developing tools that help end users without being intrusive. Welcome to my GitHub portfolio, where I showcase my automations written in Python for efficient render farm operations.
-
-**Render-Farm-Automations** contains everything I independently developed during my time as a Render Wrangler.
-
 ## CRONS
 
 These "Crons" were run at set times at two different geographical locations to perform regular, daily render farm functions, primarily regarding setup for operations during and outside work hours. They would run different functions depending on the location, calling functions from a custom "CronLibrary."
