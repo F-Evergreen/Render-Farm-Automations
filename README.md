@@ -1,3 +1,5 @@
+**Render-Farm-Automations** contains everything I independently developed during my time as a Render Wrangler.
+
 ## CRONS
 
 These "Crons" were run at set times at two different geographical locations to perform regular, daily render farm functions, primarily regarding setup for operations during and outside work hours. They would run different functions depending on the location, calling functions from a custom "CronLibrary."
