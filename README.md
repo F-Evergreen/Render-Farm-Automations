@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio
+## Welcome to My GitHub Portfolio
 
 ## About Me
 
@@ -21,7 +21,7 @@ All these files import and use the "DeadlineToolbox," a file I created containin
 ## Other Files:
 
 - **TheBigRedButton and BigRedButtonUI:** Created for emergency situations to quickly allocate the entire farm to a single type of job.
-- **CheckLoggedInUsers:** This script identifies any user who hasn't logged out by 21:00, then emails the list to relevant stakeholders. It also creates a CSV of the day's offenders for logging purposes. This tool maximizes machine availability across the company to make the best use of valuable out-of-hours render time.
+- **CheckLoggedInUsers:** This script identifies any user who hasn't logged out by 21:00, then emails the list to relevant stakeholders. It also creates a CSV of the day's offenders for logging purposes. This tool maximises machine availability across the company to make the best use of valuable out-of-hours render time.
 - **CopyJobBatchNames:** A simple tool to copy the names of highlighted jobs, streamlining information relay to production staff.
 - **DeadlineToolbox:** A comprehensive library of regularly used custom functions, invaluable for creating automation scripts efficiently.
 - **ExportCGToCSV:** Gathers all CG (heaviest renders scheduled for out-of-hours rendering) jobs on the farm an hour before E.O.D., processes data from those jobs into human-readable information, then stores it in a CSV file sent to production. This helps point out anomalies and predict farm usage out of office hours.
